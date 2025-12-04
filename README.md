@@ -6,7 +6,7 @@ I love creating apps to help with my everyday needs and hobbies.
 
 I release my apps on the App Store for others with the same needs and hobbies.
 
-I mainly use the Swift but I am still well versed with C++, C#, and Vue
+I mainly use Swift but I am still well versed with C++, C#, and Vue
 - iOS App Developemnt (Swift, SwiftUI)
 - Graphics Dev (C++, Metal, OpenGL)
 - Game Dev (C#, Unity)
